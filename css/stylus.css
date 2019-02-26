@@ -97,6 +97,9 @@ ul li {
 .titleh-content figure img {
     width: 150px;
 }
+.titleh-content div p {
+    margin-top: 5px;
+}
 /* area de banner principal */
 .banner {
     color: white;
@@ -315,6 +318,9 @@ height: 23rem;
 .labeltext span font {
     font-size: 0.8em;
 
+}
+.areatex {
+    height: 204px;
 }
 /* area pie de pagina */
 footer {
