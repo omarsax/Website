@@ -200,6 +200,12 @@ h1 font {
     color: #168FA2;
 
 }
+.direccion {
+    flex-direction: row;
+}
+.orden{
+    order: -1;
+}
 .boton-poyecto {
     text-decoration: none;
     border: 1px solid #168FA2;
