@@ -458,6 +458,9 @@ footer {
     .proyecto-item {
         width: 100%;
     }
+    .proyecto-item img{
+        width: 100%;
+    }
     .proceso-item figure img{
         width: 105px;
         height: 105px;
