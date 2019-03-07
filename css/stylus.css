@@ -458,7 +458,7 @@ footer {
     .proyecto-item {
         width: 100%;
     }
-    .proyecto-item img{
+    .proyecto-item a img{
         width: 100%;
     }
     .proceso-item figure img{
